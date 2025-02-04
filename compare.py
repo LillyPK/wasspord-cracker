@@ -7,10 +7,10 @@ def main():
 
     while True:
         # Ask the user for a hash to search
-        hash_to_find = input("Enter the hash to find (or type 'exit' to quit): ").strip()
+        hash_to_find = input("Enter the hash to find (or type 'exitexit1423' to quit): ").strip()
 
         # If the user wants to exit the program
-        if hash_to_find.lower() == 'exit':
+        if hash_to_find.lower() == 'exitexit1423':
             print("Exiting...")
             break
 
